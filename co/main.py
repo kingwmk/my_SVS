@@ -1,3 +1,4 @@
+import os
 import sys
 sys.path.append("../")
 from co.colmap import Colmap
