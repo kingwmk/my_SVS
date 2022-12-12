@@ -1,4 +1,5 @@
-import colmap
+
+from . import colmap
 
 colmap_path = "/home/hadoop-pnc/wangmingkun/software/colmap/bin/colmap"
 working_dir = "/home/hadoop-pnc/wangmingkun/datasets/MVS/theOldGate"
