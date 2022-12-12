@@ -1,4 +1,5 @@
-
+import sys
+sys.path.append("../")
 from co.colmap import Colmap
 
 colmap_path = "/home/hadoop-pnc/wangmingkun/software/colmap/bin/colmap"
